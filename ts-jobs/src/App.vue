@@ -82,6 +82,7 @@ export default defineComponent({
 .container {
 	height: 100vh;
 	margin: auto;
+	max-width: 1560px;
 	width: 100%;
 	display: flex;
 	flex-direction: column;
